@@ -49,7 +49,7 @@ export function Footer() {
           <div className="lg:col-span-2 space-y-4">
             <Link
               href="/"
-              className="flex items-center gap-3 focus:outline-none inline-flex"
+              className="inline-flex items-center gap-3 focus:outline-none"
             >
               <div className="w-10 h-10 rounded-xl bg-[#182230] text-white flex items-center justify-center font-black text-lg tracking-tighter">
                 <span className="text-[#6FAF91]">G</span>
