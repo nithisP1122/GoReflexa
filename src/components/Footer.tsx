@@ -57,7 +57,7 @@ export function Footer() {
               </div>
               <div className="flex flex-col">
                 <span className="font-extrabold text-base tracking-wider text-[#182230] leading-none">
-                  GoReflexa
+                  GOREFLEXA
                 </span>
                 <span className="text-[10px] uppercase font-semibold tracking-widest text-[#6FAF91] mt-1">
                   BUILD YOUR LIFE
